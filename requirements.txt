@@ -1,0 +1,2 @@
+Selenium-Screenshot==1.7.0
+selenium==3.141.0
